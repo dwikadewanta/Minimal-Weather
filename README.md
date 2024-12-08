@@ -1,16 +1,20 @@
-# minimal_weather
+# Minimal Weather App
 
-Minimal Weather app
+## Project Description
+Minimal Weather Apps allows users to view weather information based on their location. The app's interface is extremely simple and user-friendly, focusing solely on the essential functionality of displaying the weather and temperature of the user's city.
 
-## Getting Started
+## Key Features
+1. Minimalist Design - A clean interface that only displays weather information for the user's city.
+2. Real-time Weather Information - Shows current temperature and weather conditions (sunny, rainy, cloudy, etc.).
+3. Animated Weather Icons - Utilizes animated icons to represent weather conditions, making the app more visually appealing.
+4. Weather API Integration - Integrates with OpenWeatherMap's API to fetch real-time weather data.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+* Framework: Flutter
+* Libraries/Packages: geolocator, geocoding, http, lottie
 
-A few resources to get you started if this is your first Flutter project:
+## Application Preview
+<img src=https://github.com/dwikadewanta/Minimal-Weather/blob/master/assets/screenshot_app.png>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Credits
+Special thanks to Mitch Koko for providing a tutorial on designing and creating a minimal weather app on the YouTube platform.
